@@ -3,6 +3,7 @@
 
 ----
 1. [What ?](#what-)
+2. [Add Changeroo](#add-changeroo)
 
 ----
 
@@ -12,4 +13,5 @@
 2. Learning and testing 
 3. Will make a list of all dirs and what they are here 
 
+# Add Changeroo
 
